@@ -1,0 +1,5 @@
+nama = input ("Masukan nama: ")
+umur = int(input ("Masukan umur: "))
+print (nama)
+type(umur)
+print(umur)
